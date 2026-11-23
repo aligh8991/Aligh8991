@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" role="img" aria-labelledby="t d">
+<title id="t">Music production</title><desc id="d">A stylized audio waveform and equalizer on a dark burgundy background.</desc>
+<rect x="2" y="2" width="996" height="176" rx="20" fill="#181518" stroke="#623044" stroke-width="2"/>
+<g stroke="#c16a83" stroke-width="7" stroke-linecap="round"><path d="M95 90v-18m35 18V48m35 42V28m35 62V57m35 33V38m35 52V65m35 25V22m35 68V48m35 42V31m35 59V61m35 29V40m35 50V20m35 70V49m35 41V30m35 59V55m35 35V36m35 54V66m35 24V24m35 66V47m35 43V33m35 57V58m35 32V39m35 51V22m35 68V48m35 42V31"/></g>
+<path d="M70 90h860" stroke="#e7c3ce" stroke-opacity=".45" stroke-width="2"/>
+</svg>

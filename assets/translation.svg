@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180" role="img" aria-labelledby="t d">
+<title id="t">Arabic and English translation</title><desc id="d">Two connected speech panels representing communication between Arabic and English.</desc>
+<rect x="2" y="2" width="996" height="176" rx="20" fill="#181518" stroke="#623044" stroke-width="2"/>
+<rect x="105" y="32" width="330" height="112" rx="18" fill="#2c2027" stroke="#9c4a63" stroke-width="2"/><rect x="565" y="32" width="330" height="112" rx="18" fill="#2c2027" stroke="#9c4a63" stroke-width="2"/>
+<path d="M435 88h130m-14-12 14 12-14 12" fill="none" stroke="#d6a0ad" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#f5e9ed" text-anchor="middle" font-family="Arial,Helvetica,sans-serif"><text x="270" y="101" font-size="45">العربية</text><text x="730" y="101" font-size="42" font-weight="700">ENGLISH</text></g>
+</svg>
